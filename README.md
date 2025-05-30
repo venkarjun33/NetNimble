@@ -36,8 +36,9 @@ In modern communication networks, especially Industrial Internet of Things (IIoT
 1. **Graph Construction**: Nodes and edges with weighted latency and bandwidth.
 2. **Cost Function**:  
    ![lagrida_latex_editor](https://github.com/user-attachments/assets/770e6a26-30b0-4473-9412-62369cfa2af3)
-3. **Path Selection**: Finds paths satisfying constraints using Dijkstra’s algorithm.
-4. **Output**: Shows the best path, total latency, bandwidth, and cost visually and textually.
+   
+4. **Path Selection**: Finds paths satisfying constraints using Dijkstra’s algorithm.
+5. **Output**: Shows the best path, total latency, bandwidth, and cost visually and textually.
 ---
 
 ## 🖼️ Demo
